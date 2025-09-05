@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Color Dominance Detection Task
 
 A computer vision task for testing AI agents' visual analysis capabilities, following the same methodology as the original COLA Onboarding studies.
@@ -172,3 +173,6 @@ This task follows the same methodology as the original COLA Onboarding studies. 
 ## 📄 License
 
 This project follows the same methodology as the original COLA Onboarding studies and is intended for research purposes.
+=======
+# Color-Dominance
+>>>>>>> 9fee73b2cb62114532dbe5cced76f22c1de4c3c9
