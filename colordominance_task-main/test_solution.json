@@ -1,0 +1,19 @@
+{
+  "predictions": {
+    "image_1.png": "blue",
+    "image_2.png": "pink",
+    "image_3.png": "blue",
+    "image_4.png": "black",
+    "image_5.png": "pink",
+    "image_6.png": "green",
+    "image_7.png": "red",
+    "image_8.png": "purple",
+    "image_9.png": "black",
+    "image_10.png": "orange",
+    "image_11.png": "blue",
+    "image_12.png": "orange",
+    "image_13.png": "purple",
+    "image_14.png": "gray",
+    "image_15.png": "purple"
+  }
+}

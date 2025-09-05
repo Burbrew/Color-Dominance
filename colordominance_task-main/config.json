@@ -1,0 +1,21 @@
+{
+    "task_id": "colordominance",
+    "name": "Color Dominance Detection: Identify Dominant Color by Area",
+    "prompt": "prompt.md",
+    "description": "Each image contains multiple colored regions of various shapes and sizes. One color dominates by covering the largest area. The goal is to identify the dominant color name for each image.",
+    "difficulty": "medium",
+    "category": "computer_vision",
+    "input_dir": "input",
+    "input_files": [],
+    "expected_outputs": {
+        "solution_file": "solution.json",
+        "format": "json",
+        "ground_truth_file": "ground_truth_colors.json",
+        "sample": "{\n  \"predictions\": {\n    \"image_1.png\": \"red\",\n    \"image_2.png\": \"blue\"\n  }\n}"
+    },
+    "evaluation_criteria": {
+        "accuracy_threshold": 1.0,
+        "metric": "accuracy"
+    },
+    "timeout_seconds": 600
+}
